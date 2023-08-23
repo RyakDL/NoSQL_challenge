@@ -8,3 +8,4 @@ Note on the files: In the 'NoSQL_setup_starter_Final' file, I wrote code that wi
 Resources:
 1. Github: https://github.com/yeyanwang/nosql-challenge/tree/main, accessed 8/22/23. Note: I did not use this code, however i found parts to be helpful in the analysis file.
 2. Convert string to number: https://www.mongodb.com/community/forums/t/convert-string-to-number/107531/5, accessed 8/22/23. Note: I found this helpful in writing the code to convert strings to numbers in Mongo.
+3. DV Tutor - Ashia Braxton  - accessed 8/18/23.
